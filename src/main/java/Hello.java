@@ -1,4 +1,4 @@
-package com.github.baccata
+package com.github.baccata;
 
 public class Hello {
   
